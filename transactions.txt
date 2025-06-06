@@ -1,0 +1,24 @@
+----- Transaction -----
+Date/Time: 2025-06-06 23:04:10
+Cashier: nadinelustre
+Item: Biscoff Latte             | Qty: 1 | Price: Php150.00
+Item: Caramel Macchiato         | Qty: 1 | Price: Php170.00
+Item: Matcha Oreo               | Qty: 1 | Price: Php190.00
+Item: Caramel Syrup             | Qty: 1 | Price: Php15.00
+Total: Php367.50
+Cash: Php400.00
+Change: Php32.50
+-------------------------
+
+----- Transaction -----
+Date/Time: 2025-06-06 23:05:08
+Cashier: nadinelustre
+Item: Biscoff Matcha            | Qty: 1 | Price: Php200.00
+Item: Choco Temptation          | Qty: 1 | Price: Php130.00
+Item: Matcha Berry              | Qty: 1 | Price: Php160.00
+Item: Red Velvet Crinkles       | Qty: 1 | Price: Php70.00
+Total: Php560.00
+Cash: Php560.00
+Change: Php0.00
+-------------------------
+
